@@ -1,5 +1,5 @@
 ## Artificial Intelligence is for Everyone
-*Hello and welcome my blog. Let's talk data Science.*
+*Hello and welcome to my blog. Let's talk data Science. Scroll down and check out on my posts.*
 
 
 
