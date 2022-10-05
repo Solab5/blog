@@ -1,4 +1,16 @@
-##Awesome deep learning
+Hello and welcome my blog. Let's talk data Science.
+
+![Image of deep learning](images/deep_learning_illustration.jpg)
+
+## Usefull resources to get started with deep learning Deep Learning
+
+And you can include links, like this [link to fast.ai](https://www.fast.ai). 
+
+Posts will appear after this file. 
+
+
+
+# Awesome deep learning
 Yeah, I mean it “Awesome!”. Deep learning is the most awesome, exciting, and interesting stuff I feel every data scientist should brag about. When I started my data science journey, I thought Learning basic machine learning was all until I heard about things like neural networks, NLP, Computer vision, and so forth. I was so eager to learn how deep learning works.
 ![Image of deep learning](images/deep_learning_illustration.jpg)
 However, getting started can be hectic and overwhelming since resources are all over the web, and getting the right resources can be difficult unless you have someone already practicing it to guide you, else you can waste a lot of time without getting started.
