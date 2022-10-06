@@ -15,5 +15,5 @@
 ## Usefull resources to get started with deep learning. Thank me later!!
  
 - [link to deep learning for coders](https://www.fast.ai)(by Jeremy Howard and Sylvain Gugger) 
-- [link to MIT course for deep learning](http://introtodeeplearning.com/)(by Jeremy Howard and Sylvain Gugger) 
+- [link to MIT course for deep learning](http://introtodeeplearning.com/)
 - [Link to Coursera deep learning course ](https://www.coursera.org/learn/neural-networks-deep-learning-fr/home/welcome)(by Andrew Ng) 
