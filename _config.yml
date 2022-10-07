@@ -6,16 +6,16 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Awesome Deeplearning!
-description: Anyone can learn and do deeplearning. It just needs passion and consistency ❤
+title: Morris Twinomugishas blog!
+description: Machine learning is for everyone. It just needs passion and consistency ❤
 github_username: Solab5
 
 # Email and twitter are optional:
-email: morristwinomugisha2000@gmail.com
-twitter_username: 
+email: 
+twitter_username: mouricealsina
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
