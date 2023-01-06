@@ -16,6 +16,6 @@ Deep learning problems are mostly *texts from the web, sound, pictures, and vide
 *All these applications stipulate why every business or institution needs artificial intelligence in all their support systems other than staying in the comfort zone of traditional approaches to problem-solving and innovation. If this has motivated you, you can check on the following resources which I believe can be a very mounting stone for anyone that would like to embark on a new journey of deep learning.*
 
 - [link to deep learning for coders](https://www.fast.ai)(*by Jeremy Howard and Sylvain Gugger*) 
-- [link to MIT course for deep learning](http://introtodeeplearning.com/)(*by Jeremy Howard and Sylvain Gugger*) 
+- [link to MIT course for deep learning](http://introtodeeplearning.com/)(*MIT*) 
 - [Link to Coursera deep learning course ](https://www.coursera.org/learn/neural-networks-deep-learning-fr/home/welcome)(*by Andrew Ng*)
 
