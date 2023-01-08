@@ -1,5 +1,5 @@
 # Awesome deep learning
-*Yeah, I mean it “Awesome!”. Deep learning is the most awesome, exciting, and interesting stuff I feel every data scientist should brag about. When I started my data science journey, I thought Learning basic machine learning was all until I heard about things like neural networks, NLP, Computer vision, and so forth. I was so eager to learn how deep learning works.*
+*Yeah, I mean it “Awesome!”. Deep learning is the most awesome, exciting, and interesting stuff I feel every data scientist should brag about. When I started my data science journey, I thought Learning basic machine learning was all until I heard about things like neural networks, NLP, Computer vision, and so forth. I was so eager to learn how deep learning works. Along the journey, I realized every business or institution needs artificial intelligence in all their support systems other than staying in the comfort zone of traditional approaches to problem-solving and innovation.*
 ![Image of deep learning](images/deep_learning_illustration.jpg)
 
 However, getting started can be hectic and overwhelming since resources are all over the web, and getting the right resources can be difficult unless you have someone already practicing it to guide you, else you can waste a lot of time without getting started.
@@ -18,4 +18,6 @@ Deep learning problems are mostly *texts from the web, sound, pictures, and vide
 - [link to deep learning for coders](https://www.fast.ai)(*by Jeremy Howard and Sylvain Gugger*) 
 - [link to MIT course for deep learning](http://introtodeeplearning.com/)(*MIT*) 
 - [Link to Coursera deep learning course ](https://www.coursera.org/learn/neural-networks-deep-learning-fr/home/welcome)(*by Andrew Ng*)
+
+![image](https://user-images.githubusercontent.com/78223861/194165886-db971d59-1dc5-4dcb-9789-119f5a5dbf30.png)
 
