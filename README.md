@@ -1,3 +1,3 @@
-# DataScience
+# My Blog Website
 
-Everything you need to know about DataScience.
+This repo includes my Morris Twinomugisha's blog posts
